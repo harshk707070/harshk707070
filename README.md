@@ -1,22 +1,11 @@
 # Hi there, I'm Harsh! 👋
--------------------------------------------------------------------------------------------------
-
-**Data Scientist | ML Enthusiast | Data Storyteller**
-
-Welcome to my GitHub profile! I love transforming raw data into actionable insights and building machine learning solutions that make an impact.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Profession:** Data Scientist
+- 🧑‍💻 **Profession:** 🌱 I’m currently learning Data Science and Machine Learning
 - 📊 **Skills:** Python | Machine Learning | SQL | Data Visualization (Power BI, Tableau)
-- 🌱 **Currently Exploring:** Advanced ML algorithms & interactive data dashboards
-- 🎤 **Fun Fact:** When I'm not crunching numbers, you’ll find me singing or playing cricket!
-
-## 📈 Highlight Project
-
-[![Insurance Charges Prediction]
-(https://github-readme-stats.vercel.app/api/pin/?username=harshk707070&repo=insurance-charges-prediction)]
-(https://github.com/harshk707070/insurance-charges-prediction)
+- 🌱 **Currently Exploring:** EDA (Exploratory Data Analysis), advanced ML algorithms & interactive data dashboards
 
 ## 🛠️ Tools & Technologies
 
@@ -25,6 +14,12 @@ Welcome to my GitHub profile! I love transforming raw data into actionable insig
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff)
+
+## 📈 Highlight Project
+
+[![Insurance Charges Prediction]
+(https://github-readme-stats.vercel.app/api/pin/?username=harshk707070&repo=insurance-charges-prediction)]
+(https://github.com/harshk707070/insurance-charges-prediction)
 
 ## 💬 Let’s Connect!
 
