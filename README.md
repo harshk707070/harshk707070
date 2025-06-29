@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I love transforming raw data into actionable insig
 
 ## 📈 Highlight Project
 
-[![Insurance Charges Prediction](https://github-readme-stats.vercel.app/api/pin/?username=harshk707070&repo=insurance-charges-prediction)](https://github.com/harshk707070/insurance-charges-prediction)
+[![Insurance Charges Prediction]
+(https://github-readme-stats.vercel.app/api/pin/?username=harshk707070&repo=insurance-charges-prediction)]
+(https://github.com/harshk707070/insurance-charges-prediction)
 
 ## 🛠️ Tools & Technologies
 
