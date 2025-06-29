@@ -54,6 +54,13 @@ https://github.com/harshk707070/EDA-ML-ALGO/tree/main/insurance-charges-predicti
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
 </p>
 
+<a href="https://www.linkedin.com/in/harshk707070/">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/harshk_70/">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
+  </a>
+
 ---
 
 _Data science is not just about algorithms—it's about telling stories with data and making a real-world impact. Let's connect, collaborate, and create something amazing!_
