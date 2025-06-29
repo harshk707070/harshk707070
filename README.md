@@ -49,11 +49,6 @@ https://github.com/harshk707070/EDA-ML-ALGO/tree/main/insurance-charges-predicti
 
 ## 💬 Let’s Connect!
 
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
-</p>
-
 <a href="https://www.linkedin.com/in/harshk707070/">
   <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
