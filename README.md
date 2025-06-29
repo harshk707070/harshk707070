@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 - 🧑‍💻 **Profession:** 🌱 I’m currently learning Data Science and Machine Learning
 - 📊 **Skills:** Python | Machine Learning | SQL | Data Visualization (Power BI, Tableau)
-- 🌱 **Currently Exploring:** EDA (Exploratory Data Analysis), advanced ML algorithms & interactive data dashboards
+- 🌱 **Currently Exploring:** EDA, advanced ML algorithms & interactive data dashboards
 
 ## 🛠️ Tools & Technologies
 
@@ -24,6 +24,9 @@ Welcome to my GitHub profile!
 ## 💬 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/harshk707070/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshk707070/)
+- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24" height="24" alt="LinkedIn">](https://www.linkedin.com/in/harshk707070/)
+
 
 ---
 
