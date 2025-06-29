@@ -23,9 +23,7 @@ Welcome to my GitHub profile!
 
 ## 💬 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/harshk707070/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshk707070/)
-- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24" height="24" alt="LinkedIn">](https://www.linkedin.com/in/harshk707070/)
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" width="24" height="24" alt="LinkedIn">](https://www.linkedin.com/in/harshk707070/)
 
 
 ---
