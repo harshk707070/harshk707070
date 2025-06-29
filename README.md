@@ -1,4 +1,5 @@
 # Hi there, I'm Harsh! 👋
+-------------------------------------------------------------------------------------------------
 
 **Data Scientist | ML Enthusiast | Data Storyteller**
 
