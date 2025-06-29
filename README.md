@@ -37,22 +37,22 @@ Welcome to my GitHub profile!
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="30" height="30" alt="Plotly"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Seaborn_logo.svg" alt="seaborn" width="40" height="40"/>
-</a>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="seaborn" />
+  </a>
 
 
 ## 📈 Highlight Project
 
 [![Insurance Charges Prediction]
-(https://github-readme-stats.vercel.app/api/pin/?username=harshk707070&repo=insurance-charges-prediction)]
-(https://github.com/harshk707070/insurance-charges-prediction)
+
+https://github.com/harshk707070/EDA-ML-ALGO/tree/main/insurance-charges-prediction
 
 ## 💬 Let’s Connect!
 
-<img src="https://img.icons8.com/fluency/48/linkedin.png" width="30" height="40" alt="LinkedIn">
-  
-<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" height="40" alt="Instagram">
-
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram"/>
+</p>
 
 ---
 
